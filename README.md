@@ -21,3 +21,11 @@
 - **Live Testing**: Unlike "Developer Testing", in this section the testing will be done by someone other than the developer on a live version of the application. This step is to make sure that the new code is working smoothly with the existing codebase and that everything is still running smoothly outside of the developers local environment. Testing in this section can be done by other developers, people from business or other fields, or the end customer.
 
 - **Implemented / Complete**: This section is where the tickets will do once they have been implemented and tested as working with the rest of the system. As your applicaiton rapidly expands this section could get cluttered. Which is why you will be able to set the "Sprint Length" upon completion of the "Sprint" the Implemented / Complete section of the board will clear and will be archived into another section that is not on the main board.
+
+## Current Technical Stack (Subject to Change):
+
+- **Node.js**: Our runtime for JavaScript so we will be able to run it outside of the browser.
+- **Express.js**: Our backend minimalist framework for the API, everything must be done from scratch meaning that it will provide a good learning experience.
+- **React.js**: Our frontend portion of the application, we will use functional components to create the application, good marketability for job market.
+- **PostgreSQL**: Database that we will use, no reason for this other than having no experince with anything else. Want to dive into relational DBs before looking into MongoDB
+- **Git/GitHub**: Used for version control and online repository, this way we can keep track of our project and have it online if we need it on the go.
