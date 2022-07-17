@@ -4,11 +4,11 @@ This project is an issue tracking application that can be used to communicate wh
 
 Tickets can be divided into 4 main groups
 
-To Do: This is the backlog, everything that needs to be done resides here. When tickets are created they default to this category. From here anyone can go in and claim tickets and start working on them as they please.
+To Do: This is the backlog, everything that needs to be done resides here. When tickets are created by anyone on the project's team they default to this category. From here anyone can go in and claim tickets and start working on them as they please.
 
 In Progress: This section is for tickets which have been claimed and work has began. At this point a ticket can not be just claimed by anyone as someone has already claimed it and started working on it. In order to update the ticket holder a request must be sent to the current holder, similar to a friend request. When transfer is approved, then the ticket will reflect the new owner.
 
-Developer Testing:
+Developer Testing: After the developer thinks that the ticket has been properly implemented, at this point it is expected that the developer thoroughly tests their implemention and code. Ensuring that there are no new bugs or problems that have been introduced with the new code. For example: a new feature of removing from cart, does not break the previous feature implemention of adding to cart, both should work flawlessly.
 
 Code Review:
 
