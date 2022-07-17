@@ -25,7 +25,11 @@
 ## Current Technical Stack (Subject to Change):
 
 - **Node.js**: Our runtime for JavaScript so we will be able to run it outside of the browser.
+
 - **Express.js**: Our backend minimalist framework for the API, everything must be done from scratch meaning that it will provide a good learning experience.
+
 - **React.js**: Our frontend portion of the application, we will use functional components to create the application, good marketability for job market.
+
 - **PostgreSQL**: Database that we will use, no reason for this other than having no experince with anything else. Want to dive into relational DBs before looking into MongoDB
+
 - **Git/GitHub**: Used for version control and online repository, this way we can keep track of our project and have it online if we need it on the go.
