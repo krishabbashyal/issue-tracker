@@ -3,7 +3,7 @@
 ### This project is an issue tracking application that can be used to communicate what needs to be done on a particular, or group of projects. Things like bugs, new features, technical updates, bumping versions are all tasks that can be represented as tickets. With these tickets you can create a new "workspace" for each including a chat where progress and blockers can be documented and discussed. These tickets can also be assigned to particular developers who have been added as "members" of the particular project, this way everyone is able to see what each other is working on.
 
 ## Projects can be created by anyone and other developers and be added as you wish:
-- **Group Creator**: This person will have the "Admin" role of the project, including the ability to oversee all of the tickets and alter the group by renaming, adding and removing members, setting the group image, setting the sprint length. The Admin can also give these permissions to other, but only one "Admin" can exist in a project. The "Admin" is the only person who can delete the group. 
+- **Group Creator**: This person will have the "Admin" role of the project, including the ability to oversee all of the tickets and alter the group by renaming, adding and removing members, setting the group image, setting the sprint length, creating and removing ticket lables. The Admin can also give these permissions to others, but only one "Admin" can exist in a project. The "Admin" is the only person who can delete the group. 
 
 ## Tickets can be divided into 6 main groups or sections:
 
