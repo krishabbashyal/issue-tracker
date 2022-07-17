@@ -24,7 +24,7 @@
 
 ## Current Technical Stack (Subject to Change):
 
-- **Node.js**: Our runtime for JavaScript so we will be able to run it outside of the browser.
+- **Node.js (v16.14.2)**: Our runtime for JavaScript so we will be able to run it outside of the browser, we are using v16.14.2 but any recent version should be fine
 
 - **Express.js**: Our backend minimalist framework for the API, everything must be done from scratch meaning that it will provide a good learning experience.
 
