@@ -8,7 +8,7 @@
 
 - **Projects**: Once a project has been created, it will be empty initally. From there you can begin to create tickets, or add other memebers to the project via an invite request. This functions will work similar to a friend request in which the request has to be accepted by the other person before being added to your project. At this point it is unclear if subprojects can exist within a project, other workarounds may be explored such as grouping or color-coating on the client side.
 
-## Tickets can be divided into 6 main groups or sections
+## Tickets can be divided into 6 main groups or sections by default, but these can be changed by the project "Admin"
 
 - **To Do**: This is the backlog, everything that needs to be done resides here. When tickets are created by anyone on the project's team they default to this category. From here anyone can go in and claim tickets and start working on them as they please.
 
