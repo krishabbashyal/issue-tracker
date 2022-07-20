@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T13:51:18.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5rSs9C_83mAB6Me9pZyl" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T13:51:49.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Upps-ll27OnQB9l7Fl1A" version="20.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1179" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -407,7 +407,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3348WzC95f2z5m75ux9C-46" value="Commenter" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-44" vertex="1">
+        <mxCell id="3348WzC95f2z5m75ux9C-46" value="Commenter NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-44" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -420,7 +420,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3348WzC95f2z5m75ux9C-49" value="Post Date" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-47" vertex="1">
+        <mxCell id="3348WzC95f2z5m75ux9C-49" value="Post Date NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-47" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -433,7 +433,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3348WzC95f2z5m75ux9C-52" value="Text Content" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-50" vertex="1">
+        <mxCell id="3348WzC95f2z5m75ux9C-52" value="Text Content NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;rounded=1;shadow=0;sketch=0;strokeColor=#788AA3;fontColor=#46495D;strokeWidth=1;fontStyle=0" parent="3348WzC95f2z5m75ux9C-50" vertex="1">
           <mxGeometry x="30" width="180" height="30" as="geometry">
             <mxRectangle width="180" height="30" as="alternateBounds" />
           </mxGeometry>
